@@ -1,0 +1,27 @@
+.app-container{
+	display: flex;
+	height: 100%;
+}
+.content{
+	width: 100%;
+}
+.sidebar{
+	min-height: 740px;
+}
+.card-container{
+	margin: 30px 50px;
+}
+.tag-badge{
+	margin: 0px 3px;
+}
+.reactions-badge{
+	margin: 3px;
+}
+.create-post {
+	width: 80%;
+	margin-top: 50px;
+	margin-left: 10%;
+  }
+.spinner{
+	margin: 10% 0;
+}
